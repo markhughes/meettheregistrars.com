@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "Name.com",
+            "dot_com": 12.99
+        },
+        {
+            "name": "Name Silo",
+            "dot_com": 8.99
+        },
+        {
+            "name": "GoDaddy",
+            "dot_com": 17.99
+        },
+        {
+            "name": "BlueHost",
+            "dot_com": 11.99
+        },
+        {
+            "name": "Google",
+            "dot_com": 12.00
+        },
+        {
+            "name": "Namecheap",
+            "dot_com": 10.98
+        },
+        {
+            "name": "Gandi.net",
+            "dot_com": 15.50
+        },
+        {
+            "name": "Ions",
+            "dot_com": 10.00
+        },
+        {
+            "name": "Dynadot",
+            "dot_com": 8.99
+        },
+        {
+            "name": "BlueHost",
+            "dot_com": 8.56
+        }
+    ]
+}
