@@ -37,8 +37,16 @@
             "dot_com": 8.99
         },
         {
-            "name": "BlueHost",
+            "name": "Porkbun",
             "dot_com": 8.56
+        },
+        {
+            "name": "uniregistry",
+            "dot_com": 10.88 
+        },
+        {
+            "name": "Dotster",
+            "dot_com": 17.49
         }
     ]
 }
