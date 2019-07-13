@@ -47,6 +47,14 @@
         {
             "name": "Dotster",
             "dot_com": 17.49
+        },
+        {
+            "name": "CrazyDomains.com.au",
+            "dot_com" : 8.80
+        },
+        {
+            "name": "epik.com",
+            "dot_com": 35.00
         }
     ]
 }
