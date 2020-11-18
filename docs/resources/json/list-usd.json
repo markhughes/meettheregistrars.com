@@ -1,6 +1,5 @@
 {
-    "data": [
-        {
+    "data": [{
             "name": "Name.com",
             "dot_com": 12.99
         },
@@ -42,7 +41,7 @@
         },
         {
             "name": "uniregistry",
-            "dot_com": 10.88 
+            "dot_com": 10.88
         },
         {
             "name": "Dotster",
@@ -50,11 +49,15 @@
         },
         {
             "name": "CrazyDomains.com.au",
-            "dot_com" : 8.80
+            "dot_com": 8.80
         },
         {
             "name": "epik.com",
             "dot_com": 35.00
+        },
+        {
+            "name": "sav.com",
+            "dot_com": 8.38
         }
     ]
 }
